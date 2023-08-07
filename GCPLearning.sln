@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGCP", "HelloGCP\src\HelloGCP.csproj", "{0F69019B-16AD-4B31-955E-7EFC56802EDF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloGCP", "HelloGCP\\src\\HelloGCP.csproj", "{12379B18-0415-4FAE-AE57-7E38E7484F6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,13 @@ Global
 		{0F69019B-16AD-4B31-955E-7EFC56802EDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0F69019B-16AD-4B31-955E-7EFC56802EDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0F69019B-16AD-4B31-955E-7EFC56802EDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B9505C2-B55B-4E86-BFA9-EC010A824681}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B9505C2-B55B-4E86-BFA9-EC010A824681}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B9505C2-B55B-4E86-BFA9-EC010A824681}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B9505C2-B55B-4E86-BFA9-EC010A824681}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12379B18-0415-4FAE-AE57-7E38E7484F6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12379B18-0415-4FAE-AE57-7E38E7484F6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12379B18-0415-4FAE-AE57-7E38E7484F6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12379B18-0415-4FAE-AE57-7E38E7484F6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

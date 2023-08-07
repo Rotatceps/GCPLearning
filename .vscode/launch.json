@@ -1,0 +1,16 @@
+{
+    "configurations": [
+        {
+            "name": "Debug HelloGCP",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build",
+            "program": "${workspaceFolder}/HelloGCP/src/bin/Debug/netcoreapp6.0/HelloGCP.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/HelloGCP/src/bin/Debug/netcoreapp6.0/",
+            "stopAtEntry": false,
+            "console": "integratedTerminal"
+        }
+
+    ]
+}
